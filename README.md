@@ -1,1 +1,1 @@
-# WetherAppPython
+# WeatherAppPython
